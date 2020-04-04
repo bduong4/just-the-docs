@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Comm's Documentation
-description: Testing Jekyll Themes for User Documentation
+title: Basic TeamViewer Functions
+description: How to use TeamViewer
 baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://bduong4.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
