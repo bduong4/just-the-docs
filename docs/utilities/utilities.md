@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Utilities
+title: Default - Utilities
 nav_order: 14
 has_children: true
 permalink: docs/utilities
