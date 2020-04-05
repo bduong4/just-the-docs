@@ -8,17 +8,18 @@ permalink: /
 
 # Introduction
 {: .fs-9 }
-
-TeamViewer is a tool that allows you to access a device remotely, screenshare, and make video conferences.
+This is a guide on how to use basic TeamViewer functions. The tasks are divided into their own sections within this guide for easy access.
+  
+TeamViewer is a software that can used for remote controlling devices, file sharing, and web conferencing. The software is free for personal use, but requires a subscription for business and enterprise use. 
 {: .fs-6 .fw-300 }
 
 ---
 
-## Getting started
-
-### Pre-requisites
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+## Pre-requisites
+Before starting the guide, you will need the following:
+- Some basic computer knowledge
+- An internet connection
+- A default installation of TeamViewer*
 
 ### Quick start: Use as a GitHub Pages remote theme
 
