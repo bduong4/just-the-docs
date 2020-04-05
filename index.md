@@ -6,6 +6,7 @@ permalink: /
 ---
 
 # Introduction
+{: .no_toc }
 {: .fs-9 }
 This is a guide on how to use basic TeamViewer functions. The tasks are divided into their own sections within this guide for easy access.
   
@@ -41,9 +42,16 @@ TeamViewer is supported on personal computers, iOS, and Android devices. For sup
 
 ## Conventions
 | Content          | Style    | Examples           |
-|:-------------    |:---------|:-------------------|
+|:-----------------|:---------|:-------------------|
 | Application text | `Light`  | `ID` `Password`    |
 | Button           | **bold** | **Ok** **Connect** |
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ## Conclusion
 {:toc}
