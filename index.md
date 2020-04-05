@@ -41,17 +41,11 @@ This guide uses version 15.4.4445 of TeamViewer for personal use. It can be down
 TeamViewer is supported on personal computers, iOS, and Android devices. For support, refer to the official TeamViewer website [here](https://www.teamviewer.com/en/solutions/support-mobile-devices/]).
 
 ## Conventions
+
 | Content | Style | Examples |
 |:-----------------|:---------|:-------------------|
-| Application text | A `Light` | A `ID` `Password` |
-| Button | A **bold** | A **Ok** **Connect** |
-
-<!-- | head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  | -->
+| Application text | `Light` | `ID` `Password` |
+| Button | **bold** | **Ok** **Connect** |
 
 ## Conclusion
 {:toc}
