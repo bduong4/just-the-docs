@@ -2,7 +2,6 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "TeamViewer is a tool that allows you to access a device remotely, screenshare, and make video conferences."
 permalink: /
 ---
 
@@ -40,12 +39,14 @@ This guide uses version 15.4.4445 of TeamViewer for personal use. It can be down
 TeamViewer is supported on personal computers, iOS, and Android devices. For support, refer to the official TeamViewer website [here](https://www.teamviewer.com/en/solutions/support-mobile-devices/]).
 
 ## Conventions
-Bold = Button
-Specific application text = Light
+| Content          | Style    | Examples           |
+|:-------------    |:---------|:-------------------|
+| Application text | `Light`  | `ID` `Password`    |
+| Button           | **bold** | **Ok** **Connect** |
 
 ## Conclusion
 
-TeamViewer is a flexible tool that users can use to improve their productivity in an online workspace... [TBD]
+TeamViewer is a flexible tool that users can use to improve their productivity in an online workspace. Get started on the [first task in this guide](...).
 
 ---
 
