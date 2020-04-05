@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 98
+nav_order: 97
 ---
 
 # This Is For Testing
