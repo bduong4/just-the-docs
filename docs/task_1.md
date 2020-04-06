@@ -24,6 +24,7 @@ For this section you will learn how to set up full control over a remote compute
 * TOC
 {:toc}
 
+---
 
 ## Allowing temporary access to a computer
 
@@ -37,6 +38,8 @@ The following instructions will allow you to use a temporary password to connect
 
 4. Enter the password obtained from Step 1 and click the **Log On** button.
 - Note: To create a new password, hover your mouse over `Password` and click the reset symbol that appears. Select `Create new random password` from the menu.
+
+---
 
 ## Setting up permanent access to a computer
 

@@ -35,4 +35,3 @@ These instructions will allow you how to change your settings to allow view-only
 
 5. Form a connection to your device using the steps in [Accessing a Remote Computer](https://bduong4.github.io/just-the-docs/docs/task_1/). The incoming request should be a view-only session.
 
----
