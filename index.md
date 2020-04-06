@@ -19,9 +19,13 @@ TeamViewer is a software that can used for remote controlling computers, file sh
 * TOC
 {:toc}
 
+---
+
 ## Advantages of TeamViewer
 {:toc}
 TeamViewer is versitile software for personal and enterprise use. TeamViewer forms a secure connection between users to create a productive online environment that eliminates physical barriers.
+
+---
 
 ## Prerequisites
 {:toc}
@@ -34,15 +38,21 @@ Before starting the tasks in this guide, you will need the following:
 - 2 computers with TeamViewer installed
 - An internet connection for both computers
 
+---
+
 ## Software Version
 {:toc}
 This guide uses version 15.4.4445 of TeamViewer on a Windows 10 computer running version 1809. 
 
  TeamViewer can be downloaded [here](https://www.teamviewer.com/en-us/?gclid=EAIaIQobChMImZTtyp7S6AIVg-NkCh3pXgGsEAAYASAAEgLQdfD_BwE]).
 
+---
+
 ## Available Devices
 {:toc}
 TeamViewer is supported on personal computers, iOS, and Android devices. For support, refer to the official TeamViewer website [here](https://www.teamviewer.com/en/solutions/support-mobile-devices/]).
+
+---
 
 ## Conventions
 
@@ -50,6 +60,8 @@ TeamViewer is supported on personal computers, iOS, and Android devices. For sup
 |:-----------------|:---------|:-------------------|
 | Application text | `Light` | `ID` `Password` |
 | Button | **bold** | **Ok** **Connect** |
+
+---
 
 ## Conclusion
 {:toc}
