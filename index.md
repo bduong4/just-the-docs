@@ -65,6 +65,6 @@ TeamViewer is supported on personal computers, iOS, and Android devices. For sup
 ## Conclusion
 {:toc}
 
-TeamViewer is a flexible tool that users can use to improve their productivity in an online workspace. Get started on the [first task in this guide](https://bduong4.github.io/just-the-docs/docs/task_1).
+TeamViewer is a flexible tool that users can use to improve their productivity in an online workspace. Get started on the [first task in this guide](https://bduong4.github.io/teamviewer-basics/docs/task_1).
 
 ---
