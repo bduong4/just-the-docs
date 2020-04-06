@@ -25,19 +25,19 @@ This section will go over how you can manage your settings to set your remote co
 
 These instructions will allow you how to change your settings to allow view-only connections from others.
 
-1. At the top left of the TeamViewer window, open the **Extras** menu and select **Options**. 
+1\. At the top left of the TeamViewer window, open the **Extras** menu and select **Options**. 
 
 ![](https://github.com/bduong4/just-the-docs/blob/gh-pages/assets/images/task_2_image_1.png?raw=true)
 
-2. Select **Advanced** from the left side menu, and click **Show advanced options**.
+2\. Select **Advanced** from the left side menu, and click **Show advanced options**.
 
 ![](https://github.com/bduong4/just-the-docs/blob/gh-pages/assets/images/task_2_image_2.png?raw=true)
 
-3. Scroll down to the the `Advance settings for connections to this computer` section, open the `Access Control` dropdown menu, and select **View and show**.
+3\. Scroll down to the the `Advance settings for connections to this computer` section, open the `Access Control` dropdown menu, and select **View and show**.
 
 ![](https://github.com/bduong4/just-the-docs/blob/gh-pages/assets/images/task_2_image_3.png?raw=true)
 
-4. Click **OK** to save your settings.
+4\. Click **OK** to save your settings.
 
-5. Form a connection to your device using the steps in [Accessing a Remote Computer](https://bduong4.github.io/just-the-docs/docs/task_1/). The incoming request should be a view-only session.
+5\. Form a connection to your device using the steps in [Accessing a Remote Computer](https://bduong4.github.io/just-the-docs/docs/task_1/). The incoming request should be a view-only session.
 
