@@ -9,6 +9,6 @@ permalink: /docs/glossary
 
 ---
 
-- Local computer: The computer you want to use to send a connection request.
+- **Local computer:** The computer you want to use to send a connection request.
 
-- Remote computer: The computer you want to use to receive a connection request.
+- **Remote computer:** The computer you want to use to receive a connection request.

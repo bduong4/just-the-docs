@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Trouble Shooting
-nav_order: 98
+title: Troubleshooting
+nav_order: 6
+permalink: /docs/troubleshooting
 ---
 
-# This Is For Testing
-<!-- {: .no_toc } -->
+# Troubleshooting
+
+---
