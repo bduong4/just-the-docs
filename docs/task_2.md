@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Setting up view-only for Incoming Connections
+title: Setting up View-only Connections
 nav_order: 3
+permalink: /docs/task_2
 ---
 
-# Enabling Only "View and show" Connections
-<!-- {: .no_toc } -->
+# Setting up View-only Connections
+
 ---
 
 You may notice when connecting to a remote desktop that there are other options available other then "Full Access". These are different levels of Access controls that a user may request when connecting to a remote desktop.
@@ -19,11 +20,19 @@ This means you will not be able to accidentally give "Full Access" to users when
 This section will go over how you can manage your settings to set your remote desktop to only accept "View and show" requests.
 
 ---
-## Allowing Only "View and show" Connections
 
-These instructions will show you how to change your settings to allow only "View and show" connections to your remote desktop.
+## Setting up view-only mode for an incoming request
+
+These instructions will allow you how to change your settings to allow view-only connections from others.
+
+1. Open the **Extras** menu and select **Options**. 
+
+2. Select **Advanced** and click **Show advanced options**.
+
+3. Under the `Advance settings for connections to this computer` section, open the `Access Control` dropdown menu and select **View and show**.
+
+4. Click **OK** to save your settings.
+
+5. Form a connection to your device using the steps in [Accessing a Remote Computer](https://bduong4.github.io/just-the-docs/docs/task_1/). The incoming request should be a view-only session.
 
 ---
-
-
-
