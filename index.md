@@ -7,11 +7,9 @@ permalink: /
 
 # Introduction
 {: .no_toc }
-{: .fs-9 }
 This is a guide on how to use basic TeamViewer functions. The tasks are divided into their own sections within this guide for easy access.
   
 TeamViewer is a software that can used for remote controlling computers, file sharing, and web conferencing. The software is free for personal use, but requires a subscription for business and enterprise use. 
-{: .fs-6 .fw-300 }
 
 ---
 
