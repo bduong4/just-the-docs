@@ -10,7 +10,7 @@ permalink: /
 {: .fs-9 }
 This is a guide on how to use basic TeamViewer functions. The tasks are divided into their own sections within this guide for easy access.
   
-TeamViewer is a software that can used for remote controlling devices, file sharing, and web conferencing. The software is free for personal use, but requires a subscription for business and enterprise use. 
+TeamViewer is a software that can used for remote controlling computers, file sharing, and web conferencing. The software is free for personal use, but requires a subscription for business and enterprise use. 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,12 @@ TeamViewer is versitile software for personal and enterprise use. TeamViewer for
 {:toc}
 Before starting the tasks in this guide, you will need the following:
 - Some basic computer knowledge
-- 2 devices with TeamViewer installed
-- An internet connection for both devices
+- 2 computers with TeamViewer installed
+- An internet connection for both computers
 
 ## Software Version
 {:toc}
-This guide uses version 15.4.4445 of TeamViewer for personal use. It can be downloaded [here](https://www.teamviewer.com/en-us/?gclid=EAIaIQobChMImZTtyp7S6AIVg-NkCh3pXgGsEAAYASAAEgLQdfD_BwE]).
+This guide uses version 15.4.4445 of TeamViewer on a personal computer. It can be downloaded [here](https://www.teamviewer.com/en-us/?gclid=EAIaIQobChMImZTtyp7S6AIVg-NkCh3pXgGsEAAYASAAEgLQdfD_BwE]).
 
 ## Available Devices
 {:toc}
