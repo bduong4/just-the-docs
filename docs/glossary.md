@@ -1,8 +1,14 @@
 ---
 layout: default
 title: Glossary
-nav_order: 97
+nav_order: 5
+permalink: /docs/glossary
 ---
 
-# This Is For Testing
-{: .no_toc }
+# Glossary
+
+---
+
+- Local computer: The computer you want to use to send a connection request.
+
+- Remote computer: The computer you want to use to receive a connection request.

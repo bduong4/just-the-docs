@@ -31,7 +31,7 @@ The following instructions will allow you to use a temporary password to connect
 
 1. Get ID and password of the remote desktop that you want to access under `Your ID` and `Password`. This located under `Allow Remote Control` on the left panel.
 
-2. On your main computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
+2. On your local computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
 
 3. Select `Remote control` and click the **Connect** button.
 
@@ -50,7 +50,7 @@ The following instructions will allow you to set up a permanent password to conn
 
 4. Save your password by clicking **OK**.
 
-5. On your main computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
+5. On your local computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
 
 6. Select `Remote control` and click the **Connect** button.
 
