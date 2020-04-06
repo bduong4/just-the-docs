@@ -36,7 +36,9 @@ Before starting the tasks in this guide, you will need the following:
 
 ## Software Version
 {:toc}
-This guide uses version 15.4.4445 of TeamViewer on a personal computer. It can be downloaded [here](https://www.teamviewer.com/en-us/?gclid=EAIaIQobChMImZTtyp7S6AIVg-NkCh3pXgGsEAAYASAAEgLQdfD_BwE]).
+This guide uses version 15.4.4445 of TeamViewer on a Windows 10 computer running version 1809. 
+
+ TeamViewer can be downloaded [here](https://www.teamviewer.com/en-us/?gclid=EAIaIQobChMImZTtyp7S6AIVg-NkCh3pXgGsEAAYASAAEgLQdfD_BwE]).
 
 ## Available Devices
 {:toc}
