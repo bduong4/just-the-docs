@@ -27,6 +27,8 @@ For this section you will learn how to set up full control over a remote compute
 
 ## Allowing temporary access to a computer
 
+The following instructions will allow you to use a temporary password to connect to a device remotely.
+
 1. Get ID and password of the remote desktop that you want to access under `Your ID` and `Password`. This located under `Allow Remote Control` on the left panel.
 
 2. On your main computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
@@ -34,8 +36,11 @@ For this section you will learn how to set up full control over a remote compute
 3. Select `Remote control` and click the **Connect** button.
 
 4. Enter the password obtained from Step 1 and click the **Log On** button.
+- Note: To create a new password, hover your mouse over `Password` and click the reset symbol that appears. Select `Create new random password` from the menu.
 
 ## Setting up permanent access to a computer
+
+The following instructions will allow you to set up a permanent password to connect to a device remotely.
 
 1. Get ID and password of the remote desktop that you want to access under `Your ID`. This located under `Allow Remote Control` on the left panel.
 
