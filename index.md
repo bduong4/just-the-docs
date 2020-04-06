@@ -53,5 +53,3 @@ TeamViewer is supported on personal computers, iOS, and Android devices. For sup
 TeamViewer is a flexible tool that users can use to improve their productivity in an online workspace. Get started on the [first task in this guide](...).
 
 ---
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
