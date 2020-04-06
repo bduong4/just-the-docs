@@ -33,7 +33,7 @@ For this section you will learn how to set up full control over a remote compute
 
 3. Select `Remote control` and click the **Connect** button.
 
-4. Enter the password obtained from Step 1 and click the `Log On` button.
+4. Enter the password obtained from Step 1 and click the **Log On** button.
 
 ## Setting up permanent access to a computer
 
@@ -43,10 +43,10 @@ For this section you will learn how to set up full control over a remote compute
 
 3. Under `Personal password (for unattended access)`, set the password that you will use to connect to your computer remotely.
 
-4. Save your password by clicking `OK`.
+4. Save your password by clicking **OK**.
 
 5. On your main computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
 
 6. Select `Remote control` and click the **Connect** button.
 
-7. Enter the password obtained from Step 3 and click the `Log On` button.
+7. Enter the password obtained from Step 3 and click the **Log On** button.
