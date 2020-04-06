@@ -19,7 +19,7 @@ One thing to note is that if you give another TeamViewer user full access to the
 
 ---
 
-1. Get ID and password of the remote desktop that you want to access under `Your ID`. This located under `Allow Remote Control` on the left panel.
+1. Get ID and password of the remote computer that you want to access under `Your ID`. This located under `Allow Remote Control` on the left panel.
 - Note: The password may be [a temporary password or a permanent password](https://bduong4.github.io/just-the-docs/docs/task_1/).
 
 2. On your local computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
