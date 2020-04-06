@@ -31,7 +31,6 @@ TeamViewer is versitile software for personal and enterprise use. TeamViewer for
 {:toc}
 Before starting the tasks in this guide, you will need the following:
 - Some basic computer knowledge/skills such as:
-    
     - Opening computer applications
     - Connecting a computer to the internet
     - Using a keyboard to type
