@@ -27,15 +27,15 @@ These instructions will allow you how to change your settings to allow view-only
 
 1. At the top left of the TeamViewer window, open the **Extras** menu and select **Options**. 
 
-![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_2_image_1.png)
+![](https://github.com/bduong4/just-the-docs/blob/gh-pages/assets/images/task_2_image_1.png)
 
 2. Select **Advanced** from the left side menu, and click **Show advanced options**.
 
-![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_2_image_2.png)
+![](https://github.com/bduong4/just-the-docs/blob/gh-pages/assets/images/task_2_image_2.png)
 
 3. Scroll down to the the `Advance settings for connections to this computer` section, open the `Access Control` dropdown menu, and select **View and show**.
 
-![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_2_image_3.png)
+![](https://github.com/bduong4/just-the-docs/blob/gh-pages/assets/images/task_2_image_3.png)
 
 4. Click **OK** to save your settings.
 
