@@ -24,13 +24,13 @@ One thing to note is that if you give another TeamViewer user full access to the
 
 2. On your local computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
 
-3. Select `File transfer` and click the **Connect** button.
+3. Select the `File transfer` option and click the **Connect** button.
 
-4. Enter the password obtained from Step 1 and click the **Log On** button.
+4. In the pop up window, enter the password obtained from Step 1 and click the **Log On** button.
 
-5. Move to the path that contains the files that you want to transfer from on the the left panel under `Local computer`.
+5. On the left panel under `Local computer`, move to the directory that contains the files that you want to transfer from.
 
-6. Move to the location where you want to transfer the file under `Remote computer`.
+6. Move to the directory where you want to transfer the file under `Remote computer`.
 
 7. Click and drag the file that you want to be transferred from your `Local computer` and drop the file in `Remote computer` panel.
 

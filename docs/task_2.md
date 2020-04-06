@@ -25,11 +25,11 @@ This section will go over how you can manage your settings to set your remote co
 
 These instructions will allow you how to change your settings to allow view-only connections from others.
 
-1. Open the **Extras** menu and select **Options**. 
+1. At the top left of the TeamViewer window, open the **Extras** menu and select **Options**. 
 
-2. Select **Advanced** and click **Show advanced options**.
+2. Select **Advanced** from the left side menu, and click **Show advanced options**.
 
-3. Under the `Advance settings for connections to this computer` section, open the `Access Control` dropdown menu and select **View and show**.
+3. Scroll down to the the `Advance settings for connections to this computer` section, open the `Access Control` dropdown menu, and select **View and show**.
 
 4. Click **OK** to save your settings.
 
