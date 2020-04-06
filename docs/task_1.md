@@ -32,12 +32,18 @@ The following instructions will allow you to use a temporary password to connect
 
 1. Get ID and password of the remote desktop that you want to access under `Your ID` and `Password`. This located under `Allow Remote Control` on the left panel.
 
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_1.png)
+
 2. On your local computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
+
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_2.png)
 
 3. Select `Remote control` and click the **Connect** button.
 
 4. Enter the password obtained from Step 1 and click the **Log On** button.
 - Note: To create a new password, hover your mouse over `Password` and click the reset symbol that appears. Select `Create new random password` from the menu.
+
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_3.png)
 
 ---
 
@@ -47,13 +53,21 @@ The following instructions will allow you to set up a permanent password to conn
 
 1. Get ID and password of the remote desktop that you want to access under `Your ID`. This located under `Allow Remote Control` on the left panel.
 
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_1.png)
+
 2. Hover your mouse over `Password` and click the reset symbol that appears. Select `Set personal password` from the menu.
 
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_4.png)
+
 3. Under `Personal password (for unattended access)`, set the password that you will use to connect to your computer remotely.
+
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_5.png)
 
 4. Save your password by clicking **OK**.
 
 5. On your local computer, enter the ID of the remote computer in the `Partner ID` field. This is located under the `Control Remote Computer` on the right panel.
+
+![](https://github.com/bduong4/just-the-docs/tree/gh-pages/assets/images/task_1_image_2.png)
 
 6. Select `Remote control` and click the **Connect** button.
 
